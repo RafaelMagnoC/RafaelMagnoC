@@ -21,8 +21,8 @@
 #### |Backend|
 <div>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/.NET-43853D?style=for-the-badge&logo=.NET&logoColor=white">
-    <img src="https://img.shields.io/badge/Pythpn-43853D?style=for-the-badge&logo=Pythpn&logoColor=white">
+    <img src="https://img.shields.io/badge/.NET-43853D?style=for-the-badge&logo=.NET&logoColor=blueviolet">
+    <img src="https://img.shields.io/badge/Pythpn-43853D?style=for-the-badge&logo=Pythpn&logoColor=yellow">
 </div>
 
 #### |Database|
