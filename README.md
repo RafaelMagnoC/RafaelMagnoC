@@ -1,6 +1,5 @@
-## Hello! Welcome to my repository 🙋‍♂️
+## Olá! Welcome to my repository 🙋‍♂️
 
-[![Portfólio](https://img.shields.io/badge/Visit%20my%20Portfolio-Click-white.svg)](https://google.com.br)
 
 
 ### Code Monitor
