@@ -1,18 +1,22 @@
 ## Olá! Sejam muito bem-vindos(as) ao meu repositório 🙋‍♂️
 
-### Biografia
+### Sobre mim
 
-Meu nome é Rafael Magno, tenho 30 anos e sou de Maricá, Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
+Meu nome é Rafael Magno, tenho 30 anos e sou de Maricá, Rio de Janeiro. Atualmente, graduando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
 
-Ao longo da minha carreira profissional, minha atuação sempre esteve relacionada à administração de comércio varejista em aeroportos do Rio de Janeiro.
+Possuo experiência comprovada.
 
-Desde muito cedo, nutro uma paixão por computadores, jogos e tudo o que envolve tecnologia. Em 2020, tomei a decisão de iniciar meus estudos em desenvolvimento de software, com o objetivo de fazer a transição da área administrativa para o campo da tecnologia. Desde então, tenho buscado constantemente aprimorar-me nessa nova jornada, completando diversos cursos oferecidos por plataformas como Udemy, Digital Innovation One e Fundação Bradesco.
-
-Em 2022, tive o prazer de conquistar meu primeiro contrato de trabalho temporário. Na Firjan (Sesi/Senai - Maracanã), atuei como desenvolvedor FullStack e fui muito bem recebido e integrado à equipe do ISIQV (Instituto Senai de Inovação em Química Verde). Lá, desempenhei funções de suporte e manutenção no sistema de gerenciamento do instituto, utilizando tecnologias como .NET, Razor Pages, MySQL, JavaScript e CSS. Além disso, tive a oportunidade de desenvolver APIs REST (.NET, Swagger, MySQL, Entity Framework), bem como serviços e microsserviços em JavaScript e suas bibliotecas/frameworks, assim como em Python (Flask e Jinja2).
-
-Atualmente, estou em busca de novas oportunidades de trabalho, com o desejo de integrar uma equipe, contribuir para a melhoria de sistemas existentes e participar ativamente na criação de novos projetos.
-
-Caso queira conhecer mais sobre meu trabalho, você pode acessar alguns dos meus projetos aqui no github. Além disso, estou disponível para contato via Twitter e/ou LinkedIn; os links para minhas redes sociais estão disponíveis ao final desta página.
+Habilidades:
+1. Frontend: HTML, CSS/SASS, Javascript, Bootstrap, Razor Pages e NextJS.
+2. Backend: .NET: C#, NestJS e Python.
+3. Banco de dados: MySQL, MongoDb e FireStore.
+4. Container: Docker
+5. Principios de desenvolvimento: S.O.L.I.D e Arquitetura limpa
+6. Estratégia de projetos: DDD
+7. Testes unitários e integrados: Jest e XuniT
+8. Controle de versões: GIT
+9. Documentação: Swagger, TypeDoc, Sandcastle e/ou DocFX
+10. Ótima comunicação, criativo, proativo, determinado e responsável.
 
 ### Code Monitor
 
