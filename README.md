@@ -2,9 +2,11 @@
 
 ### Sobre mim
 
-Meu nome é Rafael Magno, tenho 30 anos e sou de Maricá, Rio de Janeiro. Atualmente, graduando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
+Meu nome é Rafael Magno, tenho 30 anos e sou de Maricá, Rio de Janeiro.
 
-Possuo experiência comprovada.
+Atualmente, graduando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
+
+Possuo experiência comprovada em desenvolvimento de API Rest, Micro serviços, desenvolvimento de aplicativos web e desktop.
 
 Habilidades:
 1. Frontend: HTML, CSS/SASS, Javascript, Bootstrap, Razor Pages e NextJS.
