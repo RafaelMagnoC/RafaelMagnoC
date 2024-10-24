@@ -2,17 +2,17 @@
 
 ### Sobre mim
 
-Meu nome é Rafael Magno, tenho 30 anos e sou de Maricá, Rio de Janeiro.
+Meu nome é Rafael Magno, nascido em 1993, morando em Maricá, Rio de Janeiro.
 
-Atualmente, graduando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
+Graduando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
 
 Possuo experiência comprovada em desenvolvimento de API Rest, Micro serviços, desenvolvimento de aplicativos web e desktop.
 
 Habilidades:
-1. Frontend: HTML, CSS/SASS, Javascript, Bootstrap, Razor Pages e NextJS.
-2. Backend: .NET: C#, NestJS e Python.
+1. Frontend: HTML, CSS/SASS, Javascript, Bootstrap, Razor Pages e VueJS.
+2. Backend: .NET - C#, NestJS|Typescript e Python
 3. Banco de dados: MySQL, MongoDb e FireStore.
-4. Container: Docker
+4. Container: Docker | Docker Compose
 5. Principios de desenvolvimento: S.O.L.I.D e Arquitetura limpa
 6. Estratégia de projetos: DDD
 7. Testes unitários e integrados: Jest e XuniT
@@ -57,6 +57,10 @@ Habilidades:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FaelMagnifico)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-magno-112068165/)
+
+### Meu portfólio
+
+[![Portfólio em construção 🚧](https://www.google.com/)
 
 
 Obrigado pela visita ❤️
