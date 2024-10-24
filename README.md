@@ -1,31 +1,29 @@
-## Olá! Sejam muito bem-vindos(as) ao meu repositório 🙋‍♂️
+## Hello! Welcome to my repository 🙋‍♂️
 
-### Sobre mim
+### About Me
 
-Meu nome é Rafael Magno, nascido em 1993, morando em Maricá, Rio de Janeiro.
+My name is Rafael Magno, born in 1993, living in Maricá, Rio de Janeiro.
 
-Graduando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
+I am currently pursuing a degree in Systems Analysis and Development at Estácio de Sá University.
 
-Possuo experiência comprovada em desenvolvimento de API Rest, Micro serviços, desenvolvimento de aplicativos web e desktop.
+I have proven experience in developing REST APIs, microservices, and web and desktop applications.
 
-Habilidades:
-1. Frontend: HTML, CSS/SASS, Javascript, Bootstrap, Razor Pages e VueJS.
-2. Backend: .NET - C#, NestJS|Typescript e Python
-3. Banco de dados: MySQL, MongoDb e FireStore.
-4. Container: Docker | Docker Compose
-5. Principios de desenvolvimento: S.O.L.I.D e Arquitetura limpa
-6. Estratégia de projetos: DDD
-7. Testes unitários e integrados: Jest e XuniT
-8. Controle de versões: GIT
-9. Documentação: Swagger, TypeDoc, Sandcastle e/ou DocFX
-10. Ótima comunicação, criativo, proativo, determinado e responsável.
+Skills:
+Frontend: HTML, CSS/SASS, JavaScript, Bootstrap, Razor Pages, and VueJS.
+Backend: .NET - C#, NestJS|Typescript, and Python.
+Databases: MySQL, MongoDB, and Firestore.
+Containers: Docker | Docker Compose.
+Development Principles: S.O.L.I.D and Clean Architecture.
+Project Strategy: DDD.
+Unit and Integration Testing: Jest and XuniT.
+Version Control: GIT.
+Documentation: Swagger, TypeDoc, Sandcastle, and/or DocFX.
+Excellent communication, creative, proactive, determined, and responsible.
 
 ### Code Monitor
 
 ![Rafael Magno GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmagnoc&show_icons=true&theme=dark)
 
-
-### Minhas Habilidades
 
 #### Frontend
 <div>
@@ -48,22 +46,22 @@ Habilidades:
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-#### Resumo    
+#### Summary  
 ![Rafael Magno](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmagnoc&theme=blue-green)
 <br>
 
-### Redes Sociais
+### Social Media
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FaelMagnifico)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-magno-112068165/)
 
-### Meu portfólio
+### My Portfolio
 
 [![Portfólio em construção 🚧](https://www.google.com/)
 
 
-Obrigado pela visita ❤️
+Thank you for visiting 🚀🚀🚀
 
 
 
