@@ -9,16 +9,16 @@ I am currently pursuing a degree in Systems Analysis and Development at Estácio
 I have proven experience in developing REST APIs, microservices, and web and desktop applications.
 
 Skills:
-Frontend: HTML, CSS/SASS, JavaScript, Bootstrap, Razor Pages, and VueJS.
-Backend: .NET - C#, NestJS|Typescript, and Python.
-Databases: MySQL, MongoDB, and Firestore.
-Containers: Docker | Docker Compose.
-Development Principles: S.O.L.I.D and Clean Architecture.
-Project Strategy: DDD.
-Unit and Integration Testing: Jest and XuniT.
-Version Control: GIT.
-Documentation: Swagger, TypeDoc, Sandcastle, and/or DocFX.
-Excellent communication, creative, proactive, determined, and responsible.
+    1. Frontend: HTML, CSS/SASS, JavaScript, Bootstrap, Razor Pages, and VueJS.
+    2. Backend: .NET - C#, NestJS|Typescript, and Python.
+    3. Databases: MySQL, MongoDB, and Firestore.
+    4. Containers: Docker | Docker Compose.
+    5 .Development Principles: S.O.L.I.D and Clean Architecture.
+    6. Project Strategy: DDD.
+    7. Unit and Integration Testing: Jest and XuniT.
+    8. Version Control: GIT.
+    9. Documentation: Swagger, TypeDoc, Sandcastle, and/or DocFX.
+   10. Excellent communication, creative, proactive, determined, and responsible.
 
 ### Code Monitor
 
@@ -58,7 +58,7 @@ Excellent communication, creative, proactive, determined, and responsible.
 
 ### My Portfolio
 
-[![Portfólio em construção 🚧](https://www.google.com/)
+[![Portfólio em construção] 🚧](https://www.google.com/)
 
 
 Thank you for visiting 🚀🚀🚀
